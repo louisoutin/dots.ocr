@@ -4,8 +4,4 @@ gradio_image_annotation
 PyMuPDF
 openai
 qwen_vl_utils
-transformers
 huggingface_hub
-modelscope
-flash-attn==2.8.0.post2
-accelerate
